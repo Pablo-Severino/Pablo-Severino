@@ -1,4 +1,4 @@
-  👋 Olá, Meu nome é Pablo.
+  👋 Olá, Meu nome é Pablo Severino Correa.
 - 🎉Eu tenho 16 anos.Estudo programação.
 - 📚 No momento eu estou estudando Python 3.
 
