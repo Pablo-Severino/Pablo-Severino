@@ -1,8 +1,6 @@
-- ![Anurag's GitHub stats](https://readme-stats-sable.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Severino)](https://github.com/Pablo-Severino)
-- 
-- 
-- 
+#Olá, Meu nome é Pablo.
+- 🎉Eu tenho 16 anos.Estudo programação.
+- 📚 No momento eu estou estudando Python 3.
 
 <!---
 Pablo-Severino/Pablo-Severino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
