@@ -1,6 +1,6 @@
-  👋 Olá, Meu nome é Pablo Severino Correa.
-- 🎉Eu tenho 16 anos.Estudo programação.
-- 📚 No momento eu estou estudando Python 3.
+   👋 Olá, Meu nome é Pablo Severino Correa.
+- 🎉Eu tenho 16 anos. Estudo programação.
+- 📚 No momento eu estou aprendendo Python 3.
 
 <!---
 Pablo-Severino/Pablo-Severino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
