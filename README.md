@@ -2,12 +2,12 @@
 - 🎉Eu tenho 16 anos. Estudo programação.
 - 📚 No momento eu estou aprendendo React.
  
- <div class="stats">
+ <div>
   <a href="https://github.com/Pablo-Severino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Severino&layout=compact&langs_count=8&theme=dracula"/>
 <div>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,9 +23,3 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pablo_severino_correa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<style>
-   .stats {
-      display: flex;
-   }
-</style>
