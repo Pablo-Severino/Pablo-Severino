@@ -1,7 +1,7 @@
-   👋 Olá, Meu nome é Pablo Severino Correa.
-- 🎉Eu tenho 16 anos. Estudo programação.
-- 📚 No momento eu estou aprendendo React.
- 
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Severino</h1>
+<h3 align="center">I am studying to be a Front end developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pablo-Severino" alt="Pablo Severino" /> </p>
+
  <div style="display: flex;">
   <a href="https://github.com/Pablo-Severino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
