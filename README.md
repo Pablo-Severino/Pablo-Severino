@@ -2,7 +2,7 @@
 <h3 align="center">I am studying to be a Front end developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pablo-Severino" alt="Pablo Severino" /> </p>
 
- <div style="display: flex;">
+ <div style="display: flex">
   <a href="https://github.com/Pablo-Severino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Severino&layout=compact&langs_count=8&theme=dracula"/>
