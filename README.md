@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Severino</h1>
+<h1 align="center">Hello 👋, I'm Pablo Severino</h1>
 <h3 align="center">I am studying to be a Front end developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pablo-Severino" alt="Pablo Severino" /> </p>
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/536259265640398849/6c5a596da74aa29eee0886993bd90245.webp?size=100">
+  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;"src="https://storage.googleapis.com/replit/images/1611919155117_dacc19d1d390984469699fa0e01ab379.jpeg">
 </div>
   
   ##
