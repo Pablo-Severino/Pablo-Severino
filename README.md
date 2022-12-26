@@ -9,14 +9,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pablo-Nextjs" height="30" width="40" src="https://devicons.railway.app/i/nextjs-light.svg">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;"src="https://storage.googleapis.com/replit/images/1611919155117_dacc19d1d390984469699fa0e01ab379.jpeg">
+  <img align="right" styles="border-radius: 50px;" alt="Pablo-pic" height="150" src="https://storage.googleapis.com/replit/images/1611919155117_dacc19d1d390984469699fa0e01ab379.jpeg">
 </div>
   
   ##
