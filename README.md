@@ -35,9 +35,7 @@
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
-<div>  
- 
-![Snake animation](https://github.com/Pablo-Severino/Pablo-Severino/blob/output/github-contribution-grid-snake.svg)
+<div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8364e8&height=120&section=footer"/>
 </div>
