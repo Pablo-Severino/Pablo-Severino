@@ -34,7 +34,7 @@
 ### Studying in this moment:
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 ### What I intend to study:
 <a href="https://deno.land" target="_blank"><img src="https://img.shields.io/badge/-Deno-0D1117?style=for-the-badge&logo=deno&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
