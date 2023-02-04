@@ -3,7 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pablo+Severino+👋;I'm+a+frontend+developer+🚀;I'm+from+Brazil+🇧🇷;Be+Welcome!+🎉)](https://git.io/typing-svg)
 </div>
-<h3 align="center">I am studying to be a Front end developer.</h3>
+<h3 align="center">I am studying to be a Fullstack developer.</h3>
 
  <div align="center">
   <a href="https://github.com/Pablo-Severino">
