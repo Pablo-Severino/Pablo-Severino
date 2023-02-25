@@ -35,11 +35,14 @@
 <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 ### What I intend to study:
 <a href="https://deno.land" target="_blank"><img src="https://img.shields.io/badge/-Deno-0D1117?style=for-the-badge&logo=deno&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href="https://astro.build" target="_blank"><img src="https://img.shields.io/badge/-Astro-0D1117?style=for-the-badge&logo=astro&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp" target="_blank"><img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
  
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=footer"/>
