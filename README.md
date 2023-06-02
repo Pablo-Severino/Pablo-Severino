@@ -12,10 +12,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pablo-Severino&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pablo-Severino&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
  
- **[![Pablo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pablo-Severino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)**
+ **[![Pablo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Severino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)**
  
 <a href="https://www.youtube.com/channel/UCjRrlGU44PbOFOrWIDB7ZhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pablo_severino019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
