@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header"/>
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pablo+Severino+👋;I'm+a+frontend+developer+🚀;I'm+from+Brazil+🇧🇷;Be+Welcome!+🎉)](https://git.io/typing-svg)
@@ -44,5 +44,5 @@
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp" target="_blank"><img src="https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
  
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=footer"/>
 </div>
