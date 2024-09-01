@@ -18,8 +18,7 @@
  **[![Pablo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Severino&hide_border=true&bg_color=302C47&line=FFF&point=FF8CCE&title_color=FFF&color=C4A7E7&radius=50)](https://github.com/ashutosh00710/github-readme-activity-graph)**
  
 <a href="https://www.youtube.com/channel/UCjRrlGU44PbOFOrWIDB7ZhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "https://mailto:pabloseverino40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-severino-b23883207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://mailto:pabloseverino40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 ### Main skills:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" target="_blank"></a>
