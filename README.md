@@ -7,8 +7,8 @@
 
  <div align="center">
   <a href="https://github.com/Pablo-Severino">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pablo-Severino&show_icons=true&bg_color=302C47&text_color=FFF&title_color=FF8CCE&icon_color=C4A7E7&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pablo-Severino&layout=compact&langs_count=7&bg_color=302C47&text_color=FFF&title_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Severino&show_icons=true&bg_color=302C47&text_color=FFF&title_color=FF8CCE&icon_color=C4A7E7&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Severino&layout=compact&langs_count=7&bg_color=302C47&text_color=FFF&title_color=FFF"/>
 </div>
 
 <p align="center">
