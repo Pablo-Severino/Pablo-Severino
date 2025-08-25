@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pablo-Severino&theme=dracula&row=1&bg=true&bg=302C47&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Pablo-Severino&theme=dracula&row=1&bg=true&bg=302C47&column=7&margin-w=15&margin-h=15" />
 </p>
  
  **[![Pablo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pablo-Severino&hide_border=true&bg_color=302C47&line=FFF&point=FF8CCE&title_color=FFF&color=C4A7E7&radius=50)](https://github.com/ashutosh00710/github-readme-activity-graph)**
